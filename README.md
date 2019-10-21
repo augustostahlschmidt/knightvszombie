@@ -12,7 +12,7 @@ O jogo conta com o efeito parallax no cenário de fundo, onde as camadas se movi
 *   [GLEW](http://glew.sourceforge.net/)
 *   [GLM](https://glm.g-truc.net/0.9.9/index.html)
 
-## Como cofigurar o ambiente
+## Como configurar o ambiente
 
 Por favor, siga os passos neste [link](https://github.com/savannadenega/game-opengl).
 
